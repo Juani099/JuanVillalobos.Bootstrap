@@ -84,7 +84,7 @@ transform: scale(1.5);
 /* Estilo de footer */
 
 .footer {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.925);
     height: 75px;
     margin-top: 700px;
 }
